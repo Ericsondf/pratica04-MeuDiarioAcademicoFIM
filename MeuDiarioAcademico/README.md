@@ -62,4 +62,4 @@ Depois é só escanear o QR Code com o app **Expo Go** (Android/iOS) ou pression
 - `node_modules` não está incluído neste pacote — rode `npm install` antes de
   iniciar o projeto.
 
-..
+Entrega revisada via Pull Request feature/pratica04 -> main.
