@@ -61,3 +61,5 @@ Depois é só escanear o QR Code com o app **Expo Go** (Android/iOS) ou pression
 - Projeto criado com Expo SDK 57 (`expo ~57.0.17`, `react-native 0.86.3`).
 - `node_modules` não está incluído neste pacote — rode `npm install` antes de
   iniciar o projeto.
+
+Entrega revisada via Pull Request feature/pratica04 -> main.
